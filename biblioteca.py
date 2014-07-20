@@ -93,3 +93,6 @@ if menu.men == 1:
 	Login()
 if menu.men == 2:
 	Cad()
+	
+	
+a=raw_input()	
