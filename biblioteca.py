@@ -2,8 +2,8 @@
 
 class Usuario:
 	def __init__(self):
-		self.logins
-		self.senhas
+		self.logins[]
+		self.senhas[]
 #Classe Básica! Apenas armazenando 2 listas. Logins e Senhas :) (Acho que isso aqui vai dar erro como ta)
 
 """
